@@ -1,22 +1,12 @@
-# hanja_learning
+# Kanji Study
 
-A new Flutter project.
+Proof of concept application developed using Flutter.
 
-## Getting Started
+Implemented SM-2 spaced repetition algorithm to optimise user recall over time
 
-This project is a starting point for a Flutter application.
+#Generate Flashcards based on JPLT Grade
+Based on level of study, cards can be filtered.
 
-A few resources to get you started if this is your first Flutter project:
+#Rote learning for kata/hiragana
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Kanji-Learning
-# Kanji-Learning
-# Kanji-Learning
-# Kanji-Learning
-# Kanji-Learning
-# Kanji-Learning
